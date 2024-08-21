@@ -1,4 +1,4 @@
-# LLM_Arch_Backdoor
+# Arch_Backdoor_LLM
 
 Code for the paper 'Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor'
 
